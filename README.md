@@ -1,4 +1,6 @@
-## Olá mundo, Sou o Marcelo Cabral !!! Esposo da Grazi Cabral !!! Pai do Max e do Rex !!! Bacharel em Ciências Contábeis !!! Futuro Desenvolvedor Full-Stack !!!
+## Olá mundo, Sou o Marcelo Cabral !!! 
+Bacharel em Ciências Contábeis !!! <br>
+Estudando para ser um Futuro Desenvolvedor Full-Stack !!!
 <div align="center">
   <a href="https://github.com/kbrallll">
 </div>
